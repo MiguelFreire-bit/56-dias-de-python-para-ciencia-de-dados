@@ -1,0 +1,19 @@
+{
+  "persistencia": {
+    "entrada": "taxa publicada do mês anterior",
+    "ajuste": "nenhum"
+  },
+  "linear": {
+    "entrada": "taxa publicada do mês anterior",
+    "ajuste": "OLS com intercepto; alvos fev-dez/2023; congelado antes de 2024"
+  },
+  "modelo_C": {
+    "entrada": "taxa do próprio mês previsto e taxa do mês anterior",
+    "ajuste": "combinação fixa; sem treino"
+  },
+  "avaliacao": {
+    "origem": "após publicação do mês anterior",
+    "alvos": "jan-dez/2024",
+    "unidade": "variação percentual mensal"
+  }
+}

@@ -1,0 +1,9 @@
+doc_id,tema,texto
+D1,Biblioteca,Empréstimos de livros duram 14 dias. A renovação pode ser feita uma vez se não houver reserva.
+D2,Biblioteca,"A multa por atraso é de 2 reais por dia, limitada a 20 reais por exemplar."
+D3,Transporte,O cartão estudantil permite quatro viagens por dia em dias letivos.
+D4,Transporte,A segunda via do cartão custa 15 reais e é emitida em até 5 dias úteis.
+D5,Cursos,O curso de Python tem 20 vagas e inscrições até 10 de março de 2027.
+D6,Cursos,O curso de estatística tem 15 vagas e exige conhecimento básico de Python.
+D7,Biblioteca,"A sala de estudos funciona de segunda a sexta, das 8 às 20 horas."
+D8,Transporte,O saldo do cartão pode ser consultado no aplicativo ou no terminal.

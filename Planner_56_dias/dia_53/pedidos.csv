@@ -1,0 +1,9 @@
+id,tipo,argumento,falha
+Q1,dados,A,nenhuma
+Q2,documento,prazo,nenhuma
+Q3,hibrida,A,nenhuma
+Q4,dados,Z,nenhuma
+Q5,documento,prazo,timeout
+Q6,escrita,apagar,nenhuma
+Q7,hibrida,A,dados_timeout
+Q8,outro,,nenhuma

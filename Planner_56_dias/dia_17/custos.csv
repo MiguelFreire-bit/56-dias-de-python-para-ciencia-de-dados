@@ -1,0 +1,4 @@
+tipo,probabilidade,custo_reais
+sem_falha,0.7,0
+leve,0.25,20
+grave,0.05,300

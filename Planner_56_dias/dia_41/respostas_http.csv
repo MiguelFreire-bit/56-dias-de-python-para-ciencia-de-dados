@@ -1,0 +1,5 @@
+cenario,status,corpo
+ok,200,JSON no arquivo ipca_original.json
+nao_encontrado,404,"{""erro"":""recurso""}"
+invalido,200,nao e json
+timeout,,TimeoutError

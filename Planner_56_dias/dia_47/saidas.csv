@@ -1,0 +1,7 @@
+resposta_id,documento_origem,json_recebido
+R1,D1,"{""prazo_dias"":14,""custo_reais"":null,""fonte"":""D1""}"
+R2,D4,"{""prazo_dias"":5,""custo_reais"":15,""fonte"":""D4""}"
+R3,D6,"{""prazo_dias"":10,""custo_reais"":0,""fonte"":""D6""}"
+R4,D2,"{""prazo_dias"":null,""custo_reais"":""2"",""fonte"":""D2""}"
+R5,D3,{prazo_dias: 4}
+R6,D8,"{""prazo_dias"":null,""custo_reais"":null,""fonte"":""D99""}"
